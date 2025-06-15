@@ -64,9 +64,6 @@ ai-guided-smart-pick/
 └── README.md          # Project documentation
 ```
 
-## Demo
-
-[Placeholder for demo GIF]
 
 ## Future Improvements
 
