@@ -1,0 +1,7 @@
+opencv-python==4.8.1.78
+ultralytics==8.0.196
+flask==3.0.0
+numpy==1.24.3
+SQLAlchemy==2.0.23
+python-dotenv==1.0.0
+RPi.GPIO==0.7.1  # Only needed if running on Raspberry Pi 
